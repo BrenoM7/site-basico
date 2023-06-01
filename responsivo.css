@@ -9,9 +9,11 @@
     margin: 0;
     text-align: center;
   }
+  
   .header {
-    padding-top: 50px;
+    padding-top: 0px;
   }
+
   .headline {
     flex: 100%;
     margin: 10%;
